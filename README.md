@@ -9,7 +9,7 @@ O usuário pode criar ou entrar em uma sala de comentários a respeito de algum 
 ## Telas
 - Tela entrar na sala
 - Tela criar Sala
-- Tela fórum de coentários 
+- Tela fórum de comentários 
 
 ##  Construido com
 
